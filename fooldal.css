@@ -1,0 +1,21 @@
+body{
+    background-color: gray;
+}
+#szurke{
+    background-color: lightgray;
+}
+#masodik{
+    margin-left: 10px;
+    border-style: dotted double dashed solid;
+    border-color: black darkgreen blue yellow;
+}
+#harmadik{
+    border: 3px dashed red;
+    padding: 15px;
+}
+#negyedik{
+    background-image: url(css/kep4.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+}

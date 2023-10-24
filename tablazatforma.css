@@ -1,0 +1,25 @@
+table, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+body{
+    background-color: lightgray;
+}
+#egyketto{
+    background-color: blue;
+}
+#hatkilenc{
+    background-color: green;
+}
+#negy{
+    background-color: red;
+}
+#nyolc{
+    background-color: yellow;
+}
+#kettoharom{
+    background-color: blue;
+}
+#otnyolctizenegy{
+    background-color: green;
+}
